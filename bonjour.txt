@@ -1,2 +1,4 @@
 Bonjour, je suis le deuxieme fichier crée.
 Je vous salue.
+Ajout de quelques phrases à partir de github.
+Bonjour, je suis sur github. Et je redige des phrases.
